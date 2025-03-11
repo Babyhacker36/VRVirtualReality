@@ -1,13 +1,12 @@
-# author 
+## Author
+**Lou Carter**  
+GitHub: [github.com/Babyhacker36](https://github.com/Babyhacker36)  
+LinkedIn: [linkedin.com/in/louiscarterjr/](https://www.linkedin.com/in/louiscarterjr/)  
+Website : [louiscarterjr.com]( https://louiscarterjr.com/)  
+## Message From Lou
 
-Lou Carter
-GitHub: github.com/Babyhacker36
-LinkedIn: linkedin.com/in/louiscarterjr/
-website: [louiscarterjr.com] (https://www.linkedin.com/in/louiscarterjr/)
 
-A Note From The Author:
-
-The videos are missing. So just figre it out if you get a dam error. 
+The videos are missing. So just figure it out if you get a dam error. 
 
 I am a man of mystery. A coder so proficient, he once wrote a recursive function that ended up rewriting itself in a better version. He doesn’t need debugging because bugs ask him for help.
 
