@@ -7,7 +7,9 @@ website: [louiscarterjr.com] (https://www.linkedin.com/in/louiscarterjr/)
 
 A Note From The Author:
 
-Louis Carter is a man of mystery. A coder so proficient, he once wrote a recursive function that ended up rewriting itself in a better version. He doesn’t need debugging because bugs ask him for help.
+The videos are missing. So just figre it out if you get a dam error. 
+
+I am a man of mystery. A coder so proficient, he once wrote a recursive function that ended up rewriting itself in a better version. He doesn’t need debugging because bugs ask him for help.
 
 Rumor has it that when Louis Carter encountered a 404 error, the internet apologized to him. And when he compiles code, even the compiler says, “I can’t wait to see what he does next.”
 
