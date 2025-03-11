@@ -23,5 +23,5 @@ yarn-debug.log*
 yarn-error.log*
 
 
-Arkam_trailer.mp4
-VirtualRealityVideo.mp4
+# Ignore all .mp4 files
+*.mp4
